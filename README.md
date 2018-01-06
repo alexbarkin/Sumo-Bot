@@ -1,2 +1,2 @@
 # Sumo-Bot
-Code for a sumoBut competition written in ArduinoC
+Code for a Sumo-Bot competition written in ArduinoC
