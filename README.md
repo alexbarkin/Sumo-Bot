@@ -5,4 +5,3 @@ Code for a Sumo-Bot competition robot written in ArduinoC. Sumo-Bot is a self-co
 Additional videos found in the Screenshot folder
 ![Screenshot](Screenshots/Champ.jpg "Screenshot")
 ![Screenshot](Screenshots/RedBot.jpg "Screenshot")
-
